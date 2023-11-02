@@ -1,0 +1,14 @@
+C:\Users\Uncle Nurlan\Desktop\cutededkvadrati\cutededkvadrati\bin\Debug\net6.0\cutededkvadrati.exe
+C:\Users\Uncle Nurlan\Desktop\cutededkvadrati\cutededkvadrati\bin\Debug\net6.0\cutededkvadrati.deps.json
+C:\Users\Uncle Nurlan\Desktop\cutededkvadrati\cutededkvadrati\bin\Debug\net6.0\cutededkvadrati.runtimeconfig.json
+C:\Users\Uncle Nurlan\Desktop\cutededkvadrati\cutededkvadrati\bin\Debug\net6.0\cutededkvadrati.dll
+C:\Users\Uncle Nurlan\Desktop\cutededkvadrati\cutededkvadrati\bin\Debug\net6.0\cutededkvadrati.pdb
+C:\Users\Uncle Nurlan\Desktop\cutededkvadrati\cutededkvadrati\obj\Debug\net6.0\cutededkvadrati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uncle Nurlan\Desktop\cutededkvadrati\cutededkvadrati\obj\Debug\net6.0\cutededkvadrati.AssemblyInfoInputs.cache
+C:\Users\Uncle Nurlan\Desktop\cutededkvadrati\cutededkvadrati\obj\Debug\net6.0\cutededkvadrati.AssemblyInfo.cs
+C:\Users\Uncle Nurlan\Desktop\cutededkvadrati\cutededkvadrati\obj\Debug\net6.0\cutededkvadrati.csproj.CoreCompileInputs.cache
+C:\Users\Uncle Nurlan\Desktop\cutededkvadrati\cutededkvadrati\obj\Debug\net6.0\cutededkvadrati.dll
+C:\Users\Uncle Nurlan\Desktop\cutededkvadrati\cutededkvadrati\obj\Debug\net6.0\refint\cutededkvadrati.dll
+C:\Users\Uncle Nurlan\Desktop\cutededkvadrati\cutededkvadrati\obj\Debug\net6.0\cutededkvadrati.pdb
+C:\Users\Uncle Nurlan\Desktop\cutededkvadrati\cutededkvadrati\obj\Debug\net6.0\cutededkvadrati.genruntimeconfig.cache
+C:\Users\Uncle Nurlan\Desktop\cutededkvadrati\cutededkvadrati\obj\Debug\net6.0\ref\cutededkvadrati.dll
